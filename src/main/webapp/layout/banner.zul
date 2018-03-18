@@ -1,0 +1,13 @@
+<div hflex="1" vflex="1" sclass="banner">
+    <hbox hflex="1" vflex="1" align="center">
+        <a href="#">
+            <image src="http://myhswm.org/images/sized/images/animals/Rapunzel-486x586.jpg" width="70px" />
+        </a>
+        <div width="400px">
+            <label value="Page Kucing" sclass="banner-head" />
+        </div>
+        <hbox hflex="1" vflex="1" pack="end" align="end">
+            HXLINE
+        </hbox>
+    </hbox>
+</div>

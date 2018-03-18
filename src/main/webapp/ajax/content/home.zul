@@ -1,0 +1,4 @@
+<vbox vflex="1" hflex="1" align="center" pack="center" spacing="20px" >
+	<image src="http://www.dailyworldfacts.com/wp-content/uploads/2011/06/facts-about-cat-fallen-cat.jpg" />
+	<label value="Kucing terbang" sclass="head1"/>
+</vbox>
